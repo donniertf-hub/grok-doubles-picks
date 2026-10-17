@@ -1,10 +1,68 @@
 {
-  "generated": "2026-10-17T15:36:00Z",
+  "generated": "2026-10-17T15:50:00Z",
   "doubles": [
-    {"id": "G-2026-10-17-a", "legs": [
-      {"sport": "ice hockey", "event": "Carolina Hurricanes @ Winnipeg Jets", "market": ["Moneyline", "Money Line", "Match Odds"], "runner": "Carolina Hurricanes", "kickoff": "2026-10-17T19:30:00Z", "confidence": 70, "min_odds": 1.50},
-      {"sport": "ice hockey", "event": "Pittsburgh Penguins @ Vegas Golden Knights", "market": ["Moneyline", "Money Line", "Match Odds"], "runner": "Vegas Golden Knights", "kickoff": "2026-10-18T02:00:00Z", "confidence": 74, "min_odds": 1.41}
-    ]}
+    {
+      "id": "G-2026-10-17-a",
+      "legs": [
+        {
+          "sport": "ice hockey",
+          "event": "Carolina Hurricanes @ Winnipeg Jets",
+          "market": [
+            "Moneyline",
+            "Money Line",
+            "Match Odds"
+          ],
+          "runner": "Carolina Hurricanes",
+          "kickoff": "2026-10-17T19:30:00Z",
+          "confidence": 70,
+          "min_odds": 1.5
+        },
+        {
+          "sport": "ice hockey",
+          "event": "Pittsburgh Penguins @ Vegas Golden Knights",
+          "market": [
+            "Moneyline",
+            "Money Line",
+            "Match Odds"
+          ],
+          "runner": "Vegas Golden Knights",
+          "kickoff": "2026-10-18T02:00:00Z",
+          "confidence": 74,
+          "min_odds": 1.41
+        }
+      ]
+    },
+    {
+      "id": "G-2026-10-18-a",
+      "legs": [
+        {
+          "sport": "american football",
+          "event": "Baltimore Ravens @ Cleveland Browns",
+          "market": [
+            "Moneyline",
+            "Money Line",
+            "Match Odds"
+          ],
+          "runner": "Baltimore Ravens",
+          "kickoff": "2026-10-18T17:00:00Z",
+          "confidence": 73,
+          "min_odds": 1.43
+        },
+        {
+          "sport": "american football",
+          "event": "Buffalo Bills @ Las Vegas Raiders",
+          "market": [
+            "Moneyline",
+            "Money Line",
+            "Match Odds"
+          ],
+          "runner": "Buffalo Bills",
+          "kickoff": "2026-10-18T20:25:00Z",
+          "confidence": 74,
+          "min_odds": 1.41
+        }
+      ]
+    }
   ],
   "singles": []
 }
