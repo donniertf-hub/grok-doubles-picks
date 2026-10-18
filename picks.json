@@ -1,1 +1,78 @@
-[]
+[
+ {
+  "id": "2026-10-19-a",
+  "legs": [
+   {
+    "event": "Pittsburgh Penguins @ Utah Mammoth",
+    "market": "Moneyline",
+    "runner": "Utah Mammoth",
+    "kickoff": "2026-10-20T01:00:00Z",
+    "confidence": 63
+   },
+   {
+    "event": "Carolina Hurricanes @ Vancouver Canucks",
+    "market": "Moneyline",
+    "runner": "Carolina Hurricanes",
+    "kickoff": "2026-10-21T02:00:00Z",
+    "confidence": 72
+   }
+  ]
+ },
+ {
+  "id": "2026-10-19-b",
+  "legs": [
+   {
+    "event": "Colorado Avalanche @ Philadelphia Flyers",
+    "market": "Moneyline",
+    "runner": "Colorado Avalanche",
+    "kickoff": "2026-10-19T23:00:00Z",
+    "confidence": 68
+   },
+   {
+    "event": "Al Nassr v Al Suqoor",
+    "market": "Match Odds",
+    "runner": "Al Nassr",
+    "kickoff": "2026-10-20T18:00:00Z",
+    "confidence": 65
+   }
+  ]
+ },
+ {
+  "id": "2026-10-19-c",
+  "legs": [
+   {
+    "event": "Washington Commanders @ San Francisco 49ers",
+    "market": "Moneyline",
+    "runner": "San Francisco 49ers",
+    "kickoff": "2026-10-20T00:15:00Z",
+    "confidence": 78
+   },
+   {
+    "event": "York v Accrington",
+    "market": "Match Odds",
+    "runner": "York",
+    "kickoff": "2026-10-20T18:45:00Z",
+    "confidence": 55
+   }
+  ]
+ },
+ {
+  "id": "2026-10-19-d",
+  "legs": [
+   {
+    "event": "Wolves v Portsmouth",
+    "market": "Match Odds",
+    "runner": "Wolves",
+    "kickoff": "2026-10-20T18:45:00Z",
+    "confidence": 58
+   },
+   {
+    "event": "Carolina Hurricanes @ Vancouver Canucks",
+    "market": "Moneyline",
+    "runner": "Carolina Hurricanes",
+    "kickoff": "2026-10-21T02:00:00Z",
+    "confidence": 72
+   }
+  ]
+ }
+]
