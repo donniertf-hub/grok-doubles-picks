@@ -74,5 +74,81 @@
     "confidence": 72
    }
   ]
+ },
+ {
+  "id": "2026-10-21-a",
+  "legs": [
+   {
+    "event": "Sogndal v Raufoss",
+    "market": "Match Odds",
+    "runner": "Sogndal",
+    "kickoff": "2026-10-21T17:00:00Z",
+    "confidence": 61
+   },
+   {
+    "event": "Chicago Bulls @ Toronto Raptors",
+    "market": "Moneyline",
+    "runner": "Toronto Raptors",
+    "kickoff": "2026-10-21T23:30:00Z",
+    "confidence": 76
+   }
+  ]
+ },
+ {
+  "id": "2026-10-21-b",
+  "legs": [
+   {
+    "event": "Reading v Leyton Orient",
+    "market": "Match Odds",
+    "runner": "Reading",
+    "kickoff": "2026-10-21T19:00:00Z",
+    "confidence": 61
+   },
+   {
+    "event": "Dallas Mavericks @ Houston Rockets",
+    "market": "Moneyline",
+    "runner": "Houston Rockets",
+    "kickoff": "2026-10-22T00:30:00Z",
+    "confidence": 73
+   }
+  ]
+ },
+ {
+  "id": "2026-10-21-c",
+  "legs": [
+   {
+    "event": "Guadalajara v Necaxa",
+    "market": "Match Odds",
+    "runner": "Guadalajara",
+    "kickoff": "2026-10-21T00:07:00Z",
+    "confidence": 66
+   },
+   {
+    "event": "Milwaukee Bucks @ Washington Wizards",
+    "market": "Moneyline",
+    "runner": "Washington Wizards",
+    "kickoff": "2026-10-21T23:00:00Z",
+    "confidence": 64
+   }
+  ]
+ },
+ {
+  "id": "2026-10-21-d",
+  "legs": [
+   {
+    "event": "Philadelphia Flyers @ Buffalo Sabres",
+    "market": "Moneyline",
+    "runner": "Buffalo Sabres",
+    "kickoff": "2026-10-21T23:30:00Z",
+    "confidence": 64
+   },
+   {
+    "event": "Golden State Warriors @ Los Angeles Lakers",
+    "market": "Moneyline",
+    "runner": "Los Angeles Lakers",
+    "kickoff": "2026-10-22T02:00:00Z",
+    "confidence": 70
+   }
+  ]
  }
 ]
