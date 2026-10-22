@@ -1,14 +1,11 @@
 [
- {"id":"2026-10-21-a","legs":[
-  {"event":"Toluca v Tijuana","market":"Match Odds","runner":"Toluca","kickoff":"2026-10-22T01:00:00Z","confidence":69},
-  {"event":"Golden State Warriors @ Los Angeles Lakers","market":"Moneyline","runner":"Los Angeles Lakers","kickoff":"2026-10-22T02:00:00Z","confidence":67}]},
- {"id":"2026-10-21-b","legs":[
-  {"event":"Reading v Leyton Orient","market":"Match Odds","runner":"Reading","kickoff":"2026-10-21T19:00:00Z","confidence":62},
-  {"event":"Santa Fe v Jaguares","market":"Match Odds","runner":"Santa Fe","kickoff":"2026-10-22T01:20:00Z","confidence":71}]},
- {"id":"2026-10-21-c","legs":[
-  {"event":"Atlanta Hawks @ Orlando Magic","market":"Moneyline","runner":"Orlando Magic","kickoff":"2026-10-21T23:00:00Z","confidence":56},
-  {"event":"Dallas Mavericks @ Houston Rockets","market":"Moneyline","runner":"Houston Rockets","kickoff":"2026-10-22T00:30:00Z","confidence":76}]},
- {"id":"2026-10-21-d","legs":[
-  {"event":"Sporting Jacksonville v Louisville City","market":"Match Odds","runner":"Louisville City","kickoff":"2026-10-21T23:30:00Z","confidence":67},
-  {"event":"Sacramento Kings @ LA Clippers","market":"Moneyline","runner":"LA Clippers","kickoff":"2026-10-22T02:30:00Z","confidence":64}]}
+ {"id":"2026-10-22-a","legs":[
+  {"event":"Anaheim Ducks @ New Jersey Devils","market":"Moneyline","runner":"New Jersey Devils","kickoff":"2026-10-22T23:00:00Z","confidence":64},
+  {"event":"Denver Nuggets @ Oklahoma City Thunder","market":"Moneyline","runner":"Oklahoma City Thunder","kickoff":"2026-10-23T01:30:00Z","confidence":72}]},
+ {"id":"2026-10-22-b","legs":[
+  {"event":"Trabzonspor v Hearts","market":"Match Odds","runner":"Trabzonspor","kickoff":"2026-10-22T16:45:00Z","confidence":72},
+  {"event":"Minnesota Wild @ Calgary Flames","market":"Moneyline","runner":"Minnesota Wild","kickoff":"2026-10-23T01:00:00Z","confidence":63}]},
+ {"id":"2026-10-22-c","legs":[
+  {"event":"Al Ahli v Al Khaleej","market":"Match Odds","runner":"Al Ahli","kickoff":"2026-10-22T18:00:00Z","confidence":74},
+  {"event":"Detroit Red Wings @ Vancouver Canucks","market":"Moneyline","runner":"Detroit Red Wings","kickoff":"2026-10-23T02:00:00Z","confidence":60}]}
 ]
